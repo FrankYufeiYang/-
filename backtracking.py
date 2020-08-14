@@ -1,4 +1,4 @@
-# solver.py
+# backtracking.py
 
 def solve(bo):
     find = find_empty(bo)
